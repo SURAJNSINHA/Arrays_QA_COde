@@ -8,7 +8,7 @@ public class SearchArraysElement
 		int a[]= {10,20,30,40,50};
 		
 		//search the element
-		int search=301;
+		int search=30;
 		boolean found=false;
 		
 		for(int i=0;i<a.length;i++)
@@ -24,5 +24,4 @@ public class SearchArraysElement
 			System.out.println("element are not found");
 		}
 	}
-
 }
